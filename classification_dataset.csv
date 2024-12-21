@@ -1,0 +1,11 @@
+Age,Income,Education_Level,Marital_Status,Defaulted_Loan
+25,40000,Bachelor,Single,0
+34,55000,Master,Married,0
+28,45000,Bachelor,Single,1
+45,80000,PhD,Married,0
+22,30000,High School,Single,1
+32,52000,Master,Married,0
+36,58000,PhD,Single,0
+29,49000,Bachelor,Married,1
+40,75000,PhD,Married,0
+23,31000,High School,Single,1
